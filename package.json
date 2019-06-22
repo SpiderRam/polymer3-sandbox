@@ -1,10 +1,10 @@
 {
-  "name": "polymer-starter-kit",
+  "name": "polymer3-sandbox",
   "version": "4.0.0",
   "description": "A starting point for Polymer apps",
-  "author": "The Polymer Authors",
+  "author": "CB Owen",
   "license": "BSD-3-Clause",
-  "repository": "Polymer/polymer-starter-kit",
+  "repository": "https://github.com/SpiderRam/polymer3-sandbox.git",
   "scripts": {
     "start": "polymer serve",
     "build": "polymer build",
